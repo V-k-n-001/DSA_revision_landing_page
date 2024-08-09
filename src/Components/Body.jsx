@@ -12,49 +12,49 @@ const Body = () => {
             <button className=' bg-lime-600 text-base text-white px-7 py-4 font-bold rounded-full hover:bg-lime-700'>Join 24/7 WhatsApp+discord for $5/month</button>
         </div>
         <div>
-            <img src="./src/assets/image.png" alt="Image" className=' lg:float-right'/>
+            <img src="./assets/image.png" alt="Image" className=' lg:float-right'/>
         </div>
 
         {/* 2nd Section */}
         </div>
         <div className='flex flex-wrap items-center justify-center text-xl mt-12 gap-6
          '>
-            <img src="./src/assets/icon-guides.svg" alt="guides_image" />
+            <img src="./assets/icon-guides.svg" alt="guides_image" />
             <p>5+Guides for free.</p>
 
-            <img src="./src/assets/icon-courses.svg" alt="Courses_image" />
+            <img src="./assets/icon-courses.svg" alt="Courses_image" />
             <p>Exclusive Courses & Projects.</p>
 
-            <img src="./src/assets/icon-whatsapp.svg" alt="whatsApp_image" />
+            <img src="./assets/icon-whatsapp.svg" alt="whatsApp_image" />
             <p>24/7 WhatsApp Support Group.</p>
 
-            <img src="./src/assets/icon-sessions.svg" alt="Session_image" />
+            <img src="./assets/icon-sessions.svg" alt="Session_image" />
             <p>1:1 Free Session.</p>
         </div>
         <div className='flex flex-col justify-center items-center px-20 py-20 lg:grid lg:grid-cols-3 gap-10'>
             <div className='flex flex-col justify-center items-center'>
-            <img src="./src/assets/avatar-aryan.webp" alt="review image"  className='rounded-full h-20 w-20'/>
+            <img src="./assets/avatar-aryan.webp" alt="review image"  className='rounded-full h-20 w-20'/>
             <p className='text-wrap'>"This community has been a game-changer for my career. The exclusive courses and personalized guidance from expert mentors have helped me take my coding skills to the next level."
             </p>
             <p className=' font-bold'>Aryan Singh</p>
             <p>SWE at Google</p>
-            <img src="./src/assets/icon-star.svg" alt="Rating stars" className='h-6' />
+            <img src="./assets/icon-star.svg" alt="Rating stars" className='h-6' />
             </div>
             <div className='flex flex-col justify-center items-center'>
-            <img src="./src/assets/avatar-kevin.webp" alt="review image"  className='rounded-full h-20 w-20 '/>
+            <img src="./assets/avatar-kevin.webp" alt="review image"  className='rounded-full h-20 w-20 '/>
             <p className='text-wrap'>"The exclusive courses and bi-weekly live sessions have been incredibly insightful, and collaborating on open-source projects has been a great way to build my portfolio. I highly recommend this community."
             </p>
             <p className=' font-bold'>Kevin Smith</p>
             <p>SWE at Tesla</p>
-            <img src="./src/assets/icon-star.svg" alt="Rating stars" className='h-6'/>
+            <img src="./assets/icon-star.svg" alt="Rating stars" className='h-6'/>
             </div>
             <div className='flex flex-col justify-center items-center'>
-            <img src="./src/assets/avatar-Umang.webp" alt="review image"  className='rounded-full h-20 w-20'/>
+            <img src="./assets/avatar-Umang.webp" alt="review image"  className='rounded-full h-20 w-20'/>
             <p className='text-wrap'>"Joining this community was one of the best decisions I've made for my career. The 24/7 WhatsApp group has been an incredible resource for networking and collaboration. I highly recommend this community"
             </p>
             <p className=' font-bold'>Umang Chaudhary</p>
             <p>SWE at Tiktok</p>
-            <img src="./src/assets/icon-star.svg" alt="Rating stars" className='h-6'/>
+            <img src="./assets/icon-star.svg" alt="Rating stars" className='h-6'/>
             </div>
         </div>
         <div className='flex flex-col justify-center items-center'>
@@ -85,8 +85,8 @@ const Body = () => {
                 <p className='black text-xl font-bold'>$5 <span className='line-through'>$1000</span></p>
                 <button className='rounded-full font-bold px-4 py-3 bg-green-600'>Join Community</button>
                 <div className='flex'>
-                    <img src="./src/assets/avatar-aryan.webp" alt="img" className='rounded-full h-16 ' /><img src="./src/assets/avatar-kevin.webp" alt="img1" className='rounded-full h-16  
-                    '/><img src="./src/assets/avatar-umang.webp" alt="img2" className='rounded-full h-16'/><img src="./src/assets/avatar-1.png" alt="img3" className='rounded-full h-16' /><img src="./src/assets/avatar-2.png" alt="img4" className='rounded-full h-16'/>
+                    <img src="./assets/avatar-aryan.webp" alt="img" className='rounded-full h-16 ' /><img src="./assets/avatar-kevin.webp" alt="img1" className='rounded-full h-16  
+                    '/><img src="./assets/avatar-umang.webp" alt="img2" className='rounded-full h-16'/><img src="./src/assets/avatar-1.png" alt="img3" className='rounded-full h-16' /><img src="./src/assets/avatar-2.png" alt="img4" className='rounded-full h-16'/>
                 </div>
                 <p>100+ Active Members</p>
             </div>
@@ -100,34 +100,34 @@ const Body = () => {
 
         <div className='lg:grid lg:grid-cols-3 lg:items-center '>
             <div className='flex flex-col items-center'>
-           <img src="./src/assets/illustration-mentors.svg" alt="mentor" className='h-60 mt-16'/>
+           <img src="./assets/illustration-mentors.svg" alt="mentor" className='h-60 mt-16'/>
            <h1 className='text-2xl font-bold'>EXPERT MENTORS</h1>
            <p className=' text-gray-500 p text-lg px-40 lg:px-28'>Get personalized guidance from expert mentors to take your coding skills to the next level.</p>
            </div>
            <div className='flex flex-col items-center'>
-          <img src="./src/assets/illustration-networking.svg" alt="" className='h-60 mt-16'/> 
+          <img src="./assets/illustration-networking.svg" alt="" className='h-60 mt-16'/> 
           <h1 className='text-2xl font-bold'>NETWORKING</h1>
           <p className=' text-gray-500  text-lg px-40 lg:px-28'>Connect with like-minded coders from around the world and collaborate on exciting projects.</p>
           </div>
           <div className='flex flex-col items-center'>
-          <img src="./src/assets/illustration-courses.svg" alt=""  className='h-60 mt-16'/>
+          <img src="./assets/illustration-courses.svg" alt=""  className='h-60 mt-16'/>
           <h1  className='text-2xl font-bold'>COURSES</h1>
           <p className=' text-gray-500  text-lg px-40 lg:px-28'>Exclusive courses in Full Stack,Al,Blockchain, and more to help you stay ahead of the curve.</p>
           </div>
         </div>
 
         <div className=' px-8 flex flex-wrap mt-20 lg:px-40 lg:mt-32 '>
-            <img src="./src/assets/adobe.svg" alt="" />
+            <img src="./assets/adobe.svg" alt="" />
             
-            <img src="./src/assets/airbnb.svg" alt="" />
+            <img src="./assets/airbnb.svg" alt="" />
 
-            <img src="./src/assets/figma.svg" alt="" />
+            <img src="./assets/figma.svg" alt="" />
 
-            <img src="./src/assets/framer.svg" alt="" />
+            <img src="./assets/framer.svg" alt="" />
             
-            <img src="./src/assets/google.svg" alt="" />
+            <img src="./assets/google.svg" alt="" />
 
-            <img src="./src/assets/dropbox.svg" alt="" />
+            <img src="./assets/dropbox.svg" alt="" />
         </div>
 
         <div className=' lg:grid grid-cols-[60%_40%]'>
@@ -137,21 +137,21 @@ const Body = () => {
 
             <h2 className='text-green-600 text-xl font-bold px-32 mt-5 '>WHAT YOU'LL GET</h2>
             <div className=' gap-4 items-center px-36 flex mt-4'>
-                <img src="./src/assets/icon-guides-2.svg" alt=""className='h-8'/>
+                <img src="./assets/icon-guides-2.svg" alt=""className='h-8'/>
                 <p className='text-xl'>Comprehensive guides, projects, & courses</p>
                 </div>
                 <div className=' gap-4 items-center px-36 flex mt-3'>
-                <img src="./src/assets/icon-job.svg" alt="" className='h-8' />
+                <img src="./assets/icon-job.svg" alt="" className='h-8' />
                 <p className='text-xl'>Exclusive job+ internship postings</p>
                 </div>
                 <div className=' gap-4 items-center px-36 flex mt-3'>
-                <img src="./src/assets/icon-tips.svg" alt="" className='h-8'/>
+                <img src="./assets/icon-tips.svg" alt="" className='h-8'/>
                 <p className='text-xl'>1:1 Career guidance & mentorship</p>
                 </div>
             
             </div>
             <div className='flex flex-row justify-center'>
-                <img src="./src/assets/illustration-job.svg" alt="" className='h-60 mt-16 lg:h-3/4 lg:pr-52'/>
+                <img src="./assets/illustration-job.svg" alt="" className='h-60 mt-16 lg:h-3/4 lg:pr-52'/>
             </div>
             </div>
         </div>
