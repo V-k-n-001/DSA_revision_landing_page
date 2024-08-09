@@ -5,7 +5,7 @@ const Header = () => {
     
     <div className='px-4 py-4 flex justify-between item-center  bg-white sticky top-0 scroll-smooth'>
         <div>
-        <img src="./src/assets/logo.svg" alt="logo"/>
+        <img src="./assets/logo.svg" alt="logo"/>
         </div>
          <div>
         <ul className='hidden md:flex justify-between items-center text-gray-400  rounded-full bg-gray-100 px-2 py-2  font-semibold '>
