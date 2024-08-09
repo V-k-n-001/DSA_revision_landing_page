@@ -49,7 +49,7 @@ const Body = () => {
             <img src="./assets/icon-star.svg" alt="Rating stars" className='h-6'/>
             </div>
             <div className='flex flex-col justify-center items-center'>
-            <img src="./assets/avatar-Umang.webp" alt="review image"  className='rounded-full h-20 w-20'/>
+            <img src="./assets/avatar-umang.webp" alt="review image"  className='rounded-full h-20 w-20'/>
             <p className='text-wrap'>"Joining this community was one of the best decisions I've made for my career. The 24/7 WhatsApp group has been an incredible resource for networking and collaboration. I highly recommend this community"
             </p>
             <p className=' font-bold'>Umang Chaudhary</p>
@@ -86,7 +86,7 @@ const Body = () => {
                 <button className='rounded-full font-bold px-4 py-3 bg-green-600'>Join Community</button>
                 <div className='flex'>
                     <img src="./assets/avatar-aryan.webp" alt="img" className='rounded-full h-16 ' /><img src="./assets/avatar-kevin.webp" alt="img1" className='rounded-full h-16  
-                    '/><img src="./assets/avatar-umang.webp" alt="img2" className='rounded-full h-16'/><img src="./src/assets/avatar-1.png" alt="img3" className='rounded-full h-16' /><img src="./src/assets/avatar-2.png" alt="img4" className='rounded-full h-16'/>
+                    '/><img src="./assets/avatar-umang.webp" alt="img2" className='rounded-full h-16'/><img src="./assets/avatar-1.png" alt="img3" className='rounded-full h-16' /><img src="./assets/avatar-2.png" alt="img4" className='rounded-full h-16'/>
                 </div>
                 <p>100+ Active Members</p>
             </div>
